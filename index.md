@@ -5,6 +5,7 @@ subtitle: Assistant Professor, School of Computing - University of Utah
 use-site-title: true
 permalink: /
 ---
+![image-title-here]({{ site.url }}/img/zvonimir_rakamaric_center.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;"}
 My name is Zvonimir Rakamaric (spelled Rakamarić in Croatian) and I am an assistant professor in the [School of Computing](http://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). Prior to this, I was a postdoctoral fellow in the [Robust Software Engineering Group](https://ti.arc.nasa.gov/tech/rse/) at [NASA Ames Research Center](https://www.nasa.gov/ames). I received my Ph.D. and M.Sc. from the Department of Computer Science at the [University of British Columbia](https://www.ubc.ca/), and my supervisor was [Alan Hu](http://www.cs.ubc.ca/~ajh/). I grew up and did my undergrad in Croatia.
 
 [Curriculum Vitae]({{ site.url }}/download/zvonimir_rakamaric-cv.pdf) (Last updated: August, 2017), [short biography]({{ site.url }}/download/zvonimir_rakamaric-bio.txt).
