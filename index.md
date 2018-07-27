@@ -7,7 +7,7 @@ permalink: /
 ---
 ![image-title-here]({{ site.url }}/img/zvonimir_rakamaric_center.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;"}
 I am an associate professor in the School of Computing at the University of
-Utah, where I lead Software Analysis Research Laboratory
+Utah, where I lead the Software Analysis Research Laboratory
 ([SOARlab](http://soarlab.org)). My work aims to improve the reliability and
 resilience of complex software systems by empowering developers with practical
 tools and techniques for analysis of their artifacts.  To achieve this, my
