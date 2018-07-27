@@ -11,7 +11,7 @@ Utah, where I lead Software Analysis Research Laboratory
 ([SOARlab](http://soarlab.org)). My work aims to improve the reliability and
 resilience of complex software systems by empowering developers with practical
 tools and techniques for analysis of their artifacts.  To achieve this, my
-research spans multiple areas, such as formal verification, programming
+research spans multiple areas, including formal verification, programming
 languages, software engineering, and security.
 
 [Curriculum Vitae]({{ site.url }}/download/zvonimir_rakamaric-cv.pdf) (Last updated: August, 2017),
