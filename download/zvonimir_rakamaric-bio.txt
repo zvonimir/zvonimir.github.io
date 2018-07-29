@@ -1,5 +1,5 @@
 
-Zvonimir Rakamaric is an assistant professor in the School of Computing at the
+Zvonimir Rakamaric is an associate professor in the School of Computing at the
 University of Utah. Prior to this, he was a postdoctoral fellow at Carnegie
 Mellon University in Silicon Valley, where he worked closely with researchers
 from the Robust Software Engineering Group at NASA Ames Research Center to
@@ -18,4 +18,4 @@ Software Engineering (ICSE) 2010, and the Outstanding Student Paper Award at the
 13th International Conference on Tools and Algorithms for the Construction and
 Analysis of Systems (TACAS) 2007.
 
-For more information about Zvonimir, visit http://zvonimir.github.io.
+For more information about Zvonimir, visit www.zvonimir.info.
