@@ -25,7 +25,7 @@ description: Home Page
 #   About: "aboutme"
 navbar-links:
   SOARlab: "http://soarlab.org/"
-  Publications: "http://soarlab.org/pubs/"
+  Publications: "https://soarlab.org/publications/"
   Activities: "activities"
   Teaching: "teaching"
   Calendar: "calendar"
