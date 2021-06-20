@@ -15,6 +15,6 @@ with practical tools and techniques for analysis of their artifacts.  To
 achieve this, my research spans multiple areas, including formal verification,
 programming languages, software engineering, and security.
 
-[Curriculum Vitae]({{ site.url }}/download/zvonimir_rakamaric-cv.pdf) (Last updated: August, 2020),
+[Curriculum Vitae]({{ site.url }}/download/zvonimir_rakamaric-cv.pdf) (Last updated: June, 2021),
 [short biography]({{ site.url }}/download/zvonimir_rakamaric-bio.txt).
 
