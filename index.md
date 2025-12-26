@@ -6,15 +6,16 @@ use-site-title: true
 permalink: /
 ---
 ![image-title-here]({{ site.url }}/img/zvonimir_rakamaric_center.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;"}
-I am a principal applied scientist at Amazon Web Services (AWS).  I am on a
-leave of absence from the School of Computing at the University of Utah, where
-I am an associate professor and I lead the Software Analysis Research
+I am a principal applied scientist at Amazon Web Services (AWS).
+Before, I was an associate professor
+in the School of Computing at the University of Utah, where
+I led the Software Analysis Research
 Laboratory ([SOARlab](http://soarlab.org)). My work aims to improve the
-reliability and resilience of complex software systems by empowering developers
+reliability and resilience of complex systems (artificial intelligence, software, operating systems, etc.) by empowering developers
 with practical tools and techniques for analysis of their artifacts.  To
-achieve this, my research spans multiple areas, including formal verification,
+achieve this, my research spans multiple areas, including automated reasoning,
 programming languages, software engineering, and security.
 
-[Curriculum Vitae]({{ site.url }}/download/zvonimir_rakamaric-cv.pdf) (Last updated: June, 2021),
+[Curriculum Vitae]({{ site.url }}/download/zvonimir_rakamaric-cv.pdf) (Last updated: December, 2025),
 [short biography]({{ site.url }}/download/zvonimir_rakamaric-bio.txt).
 
